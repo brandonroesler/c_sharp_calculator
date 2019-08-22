@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "R365_Calculator", "R365_Calculator\R365_Calculator.csproj", "{24031BD6-4874-4EC0-89C3-CBB3A020DDB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calc_Test", "Calc_Test\Calc_Test.csproj", "{1D9ED114-0720-4376-BE71-7CE7E72FE70A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24031BD6-4874-4EC0-89C3-CBB3A020DDB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24031BD6-4874-4EC0-89C3-CBB3A020DDB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24031BD6-4874-4EC0-89C3-CBB3A020DDB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24031BD6-4874-4EC0-89C3-CBB3A020DDB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D9ED114-0720-4376-BE71-7CE7E72FE70A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D9ED114-0720-4376-BE71-7CE7E72FE70A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D9ED114-0720-4376-BE71-7CE7E72FE70A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D9ED114-0720-4376-BE71-7CE7E72FE70A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
