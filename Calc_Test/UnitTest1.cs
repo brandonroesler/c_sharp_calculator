@@ -14,7 +14,7 @@ namespace Calc_Test
 
             //Act
             int result = calculator.Add("1,20");
-
+            System.Console.WriteLine(result);
             //Assert
             int expected = 21;
             Assert.AreEqual(expected, result);
