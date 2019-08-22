@@ -7,7 +7,8 @@ namespace R365_Calculator
     {
         public int Add(string args)
         {
-            string[] values = args.Split(",");
+            char[] delimiters = { ',', '\n' };
+            string[] values = args.Split(delimiters);
             int returnValue = 0;
             List<int> negatives = new List<int>();
             foreach (string el in values)
